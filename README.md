@@ -1,3 +1,6 @@
+title: Welcome to randomCodeName's home page!
+description: Just testing how this whole GitHub Pages thing works.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/randomCodeName/randomCodeName.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
